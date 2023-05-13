@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "problem1061",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "problem1061::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-problem1061-Debug-50b061ed4a15a0a5244f.json",
+					"name" : "problem1061",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/victor/Documents/dev/2-Competitive Programming/4-books/cp3_competitive_programming_book_problems/chapter2/exercises/programming_exercises/problem1061/cmake-build-debug",
+		"source" : "/home/victor/Documents/dev/2-Competitive Programming/4-books/cp3_competitive_programming_book_problems/chapter2/exercises/programming_exercises/problem1061"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

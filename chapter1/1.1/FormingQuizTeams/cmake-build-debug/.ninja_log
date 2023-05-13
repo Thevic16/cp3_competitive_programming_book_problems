@@ -1,0 +1,10 @@
+# ninja log v5
+2204	2307	1679410938824062087	FormingQuizTeams	e25ccde36c1b9fda
+0	31	1679422416303013221	build.ninja	601ad9fddb032b3f
+1	2197	1679410434200809490	CMakeFiles/FormingQuizTeams.dir/main.cpp.o	78d1b01030fc1d68
+9	1020	1679410345252011812	CMakeFiles/FormingQuizTeams.dir/solution.cpp.o	272ec8d31c56d96f
+2	2204	1679410938720062666	CMakeFiles/FormingQuizTeams.dir/mySolution.cpp.o	2261f7684884a9b5
+1	3959	1679423583870016824	CMakeFiles/FormingQuizTeams.dir/mySolution.cpp.o	2261f7684884a9b5
+3959	4475	1679423584386067968	FormingQuizTeams	e25ccde36c1b9fda
+2	2458	1679423632846914029	CMakeFiles/FormingQuizTeams.dir/mySolution.cpp.o	2261f7684884a9b5
+2458	2559	1679423632946924112	FormingQuizTeams	e25ccde36c1b9fda
